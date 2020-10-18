@@ -1,0 +1,7 @@
+The Highest Total Value is : 530 by Sam 
+Sam  has acehived the highest score in Biology(90)
+Sandeep  has acehived the highest score in Chemistry(80)
+Ajay  has acehived the highest score in Physics(90)
+Sam  has acehived the highest score in Soical(90)
+Sam  has acehived the highest score in Mathematics(90)
+Sam  has acehived the highest score in Computers(90)

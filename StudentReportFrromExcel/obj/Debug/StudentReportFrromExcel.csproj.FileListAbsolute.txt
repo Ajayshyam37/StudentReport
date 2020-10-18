@@ -1,0 +1,12 @@
+C:\Users\DT228274\source\repos\StudentReport\StudentReportFrromExcel\bin\Debug\StudentReportFrromExcel.exe.config
+C:\Users\DT228274\source\repos\StudentReport\StudentReportFrromExcel\bin\Debug\StudentReportFrromExcel.exe
+C:\Users\DT228274\source\repos\StudentReport\StudentReportFrromExcel\bin\Debug\StudentReportFrromExcel.pdb
+C:\Users\DT228274\source\repos\StudentReport\StudentReportFrromExcel\bin\Debug\ExcelDataReader.dll
+C:\Users\DT228274\source\repos\StudentReport\StudentReportFrromExcel\bin\Debug\ExcelDataReader.pdb
+C:\Users\DT228274\source\repos\StudentReport\StudentReportFrromExcel\bin\Debug\ExcelDataReader.xml
+C:\Users\DT228274\source\repos\StudentReport\StudentReportFrromExcel\obj\Debug\StudentReportFrromExcel.csprojAssemblyReference.cache
+C:\Users\DT228274\source\repos\StudentReport\StudentReportFrromExcel\obj\Debug\StudentReportFrromExcel.csproj.ResolveComReference.cache
+C:\Users\DT228274\source\repos\StudentReport\StudentReportFrromExcel\obj\Debug\StudentReportFrromExcel.csproj.CoreCompileInputs.cache
+C:\Users\DT228274\source\repos\StudentReport\StudentReportFrromExcel\obj\Debug\StudentReportFrromExcel.csproj.CopyComplete
+C:\Users\DT228274\source\repos\StudentReport\StudentReportFrromExcel\obj\Debug\StudentReportFrromExcel.exe
+C:\Users\DT228274\source\repos\StudentReport\StudentReportFrromExcel\obj\Debug\StudentReportFrromExcel.pdb
