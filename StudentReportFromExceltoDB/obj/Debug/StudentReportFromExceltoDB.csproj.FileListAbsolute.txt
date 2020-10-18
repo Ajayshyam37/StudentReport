@@ -1,0 +1,13 @@
+C:\Users\DT228274\source\repos\StudentReport\StudentReportFromExceltoDB\bin\Debug\StudentReportFromExceltoDB.exe.config
+C:\Users\DT228274\source\repos\StudentReport\StudentReportFromExceltoDB\bin\Debug\StudentReportFromExceltoDB.exe
+C:\Users\DT228274\source\repos\StudentReport\StudentReportFromExceltoDB\bin\Debug\StudentReportFromExceltoDB.pdb
+C:\Users\DT228274\source\repos\StudentReport\StudentReportFromExceltoDB\obj\Debug\StudentReportFromExceltoDB.csprojAssemblyReference.cache
+C:\Users\DT228274\source\repos\StudentReport\StudentReportFromExceltoDB\obj\Debug\StudentReportFromExceltoDB.csproj.ResolveComReference.cache
+C:\Users\DT228274\source\repos\StudentReport\StudentReportFromExceltoDB\obj\Debug\StudentReportFromExceltoDB.csproj.CoreCompileInputs.cache
+C:\Users\DT228274\source\repos\StudentReport\StudentReportFromExceltoDB\obj\Debug\StudentReportFromExceltoDB.exe
+C:\Users\DT228274\source\repos\StudentReport\StudentReportFromExceltoDB\obj\Debug\StudentReportFromExceltoDB.pdb
+C:\Users\DT228274\source\repos\StudentReport\StudentReportFromExceltoDB\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\DT228274\source\repos\StudentReport\StudentReportFromExceltoDB\bin\Debug\System.IO.Packaging.dll
+C:\Users\DT228274\source\repos\StudentReport\StudentReportFromExceltoDB\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\DT228274\source\repos\StudentReport\StudentReportFromExceltoDB\bin\Debug\System.IO.Packaging.xml
+C:\Users\DT228274\source\repos\StudentReport\StudentReportFromExceltoDB\obj\Debug\StudentReportFromExceltoDB.csproj.CopyComplete
